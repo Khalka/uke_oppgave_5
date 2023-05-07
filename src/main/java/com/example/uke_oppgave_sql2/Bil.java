@@ -27,7 +27,7 @@ public class Bil {
         return biltype;
     }
 
-    public void setBilype(String biltype) {
+    public void setBiltype(String biltype) {
         this.biltype = biltype;
     }
 }
